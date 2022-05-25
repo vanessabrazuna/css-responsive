@@ -1,22 +1,21 @@
-# Exercício Responsividade CSS
+# CSS Responsiveness Exercise
 
-Etapas para conclusão do exercício:
+Steps to complete the exercise:
 
-- Clone este repositório (ou baixe-o)
+- Clone this repository (or download it)
 
-- Crie o arquivo *index.html* na pasta **/public**
+- Create the *index.html* file in the **/public** folder
 
-- Abra os arquivos *.png* na pasta **/mockups**
+- Open the *.png* files in the **/mockups** folder
 
-- Escreva no *index.html* código HTML da estrutura da página utilizando as imagens que estão em **/images**
+- Write in the *index.html* HTML code of the page structure using the images that are in **/images**
 
-- Escreva no *css/style.css* o código CSS da página.
-(Escolha entre *mobile-first* e *desktop-first*)
+- Write in *css/style.css* the CSS code of the page.
+(Choose between *mobile-first* and *desktop-first*)
 
-- Torne a página 100% responsiva, com 3 breakpoints (celular, tablet e desktop).
+- Make the page 100% responsive, with 3 breakpoints (mobile, tablet and desktop).
 
-- NÃO precisa fazer o menu mobile funcionar.
-
+- NO need to make the mobile menu work.
 ---
 
 ### Desktop:
@@ -25,5 +24,5 @@ Etapas para conclusão do exercício:
 ### Tablet:
 ![webpage](https://i.imgur.com/ELRIkmK.png)
 
-### Celular:
+### Smartphone:
 ![webpage](https://i.imgur.com/MGWyqMI.png)
